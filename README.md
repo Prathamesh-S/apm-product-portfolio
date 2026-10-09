@@ -19,10 +19,10 @@ I'm a technically experienced product builder pursuing Associate Product Manager
 
 ## Accuracy and confidentiality
 
-The infrastructure timings are estimates based on observed workflow, not audited measurements. HomeyB and Parky are implemented products; their precise Google Play testing tracks have not yet been verified. No adoption, retention, revenue or product-market-fit claims are made without evidence. Screenshots may include controlled test data. No private app source, credentials, signing materials, customer data or infrastructure identifiers are hosted here.
+The infrastructure timings are estimates based on observed workflow, not audited measurements. HomeyB and Parky are implemented products; both are in Google Play closed testing as confirmed by the developer; no adoption metrics are claimed. No adoption, retention, revenue or product-market-fit claims are made without evidence. Screenshots may include controlled test data. No private app source, credentials, signing materials, customer data or infrastructure identifiers are hosted here.
 
 ## Site maintenance
 
 GitHub Pages publishes the `main` branch from repository root. Website pages are in `index.html`, `projects/` and `assets/style.css`. PDF case studies are in `documents/`.
 
-**Next to add:** one-page resume after verifying employment dates, education and professional history; exact Play Console testing statuses once confirmed.
+**Next to add:** one-page resume after verifying employment dates, education and professional history; Play Console release evidence can be linked when available.
