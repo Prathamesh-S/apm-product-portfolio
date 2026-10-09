@@ -1,45 +1,28 @@
-# APM Product Portfolio
+# Prathamesh Sable — APM Product Portfolio
 
-A recruiter-oriented portfolio featuring **three real executed projects** and **two independent concept studies**.
+**Live site:** https://prathamesh-s.github.io/apm-product-portfolio/
 
-## Live website
+**Contact:** [Email](mailto:prathameshsspatil2000@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prathamesh-sable-04aa8421a) · [GitHub](https://github.com/Prathamesh-S)
 
-After enabling GitHub Pages: `https://Prathamesh-S.github.io/apm-product-portfolio/`
+I'm a technically experienced product builder pursuing Associate Product Manager and early-career product roles. This portfolio focuses on decisions, implementation and evidence—not document volume.
 
-> The URL above will work only after the repository has been created and GitHub Pages deployed.
+## Featured work
 
-## Featured real-world projects
+- **Infrastructure Reporting Automation:** Independently created an on-demand Linux-to-HTML reporting workflow used by a ~10-person team; estimated reporting preparation fell from 30–60 to ~5 minutes per run.
+- **HomeyB:** Led product definition and implementation of a privacy-aware hyperlocal Android application with approximate location, local content, consent and safety controls. [Supporting evidence](https://github.com/Prathamesh-S/HomeyB-Product-Portfolio).
+- **Parky:** Independently built an offline-first Android parking-memory application with GPS accuracy transparency and contextual clues. [Supporting evidence](https://github.com/Prathamesh-S/Parky-Product-Portfolio).
 
-1. **Infrastructure Reporting Automation** — manual reporting reduced from an estimated 30–60 minutes to ~5 minutes per run; regularly used within a technical team while employed.
-2. **HomeyB** — product leadership and implementation for a privacy-aware hyperlocal Android prototype. [Existing public evidence](https://github.com/Prathamesh-S/HomeyB-Product-Portfolio).
-3. **Parky** — independently built offline-first Android parking-memory app. [Existing public evidence](https://github.com/Prathamesh-S/Parky-Product-Portfolio).
+## Additional product studies
 
-## Independent product exercises
+- **Smart Route Share:** Proposed predictable shared-ride feature; matching/OTP/fare rules and PRD. Not shipped.
+- **Peak-Hour Delivery Recovery:** Hypothetical delay-cancellation diagnosis, experiment design and unit economics. Illustrative—not company or customer data.
 
-4. **Smart Route Share** — proposed controlled ride-sharing feature and PRD. Not shipped.
-5. **Peak-Hour Delivery Recovery** — hypothetical product analytics and incentive economics. Scenario data, not company data.
+## Accuracy and confidentiality
 
-## Publish
+The infrastructure timings are estimates based on observed workflow, not audited measurements. HomeyB and Parky are implemented products; their precise Google Play testing tracks have not yet been verified. No adoption, retention, revenue or product-market-fit claims are made without evidence. Screenshots may include controlled test data. No private app source, credentials, signing materials, customer data or infrastructure identifiers are hosted here.
 
-1. Create a **public** GitHub repository called `apm-product-portfolio` (do not initialize it with a README).
-2. Extract this ZIP and upload the *contents* to the repository root (`index.html`, `assets/`, `projects/`, `documents/`, and `README.md`).
-3. In **Settings → Pages**, choose **Deploy from a branch**, then `main` and `/ (root)` and save.
-4. Visit `https://Prathamesh-S.github.io/apm-product-portfolio/` after GitHub Pages finishes deploying.
-5. Set repository website/homepage to that URL and pin this repository to your GitHub profile.
+## Site maintenance
 
-### Before sending to recruiters
+GitHub Pages publishes the `main` branch from repository root. Website pages are in `index.html`, `projects/` and `assets/style.css`. PDF case studies are in `documents/`.
 
-- Add your **verified name, email, LinkedIn URL, and tailored one-page resume PDF**. They are intentionally omitted rather than fabricated.
-- Verify HomeyB and Parky **Play Console testing track** and update status consistently across public evidence pages.
-- Review workplace content to ensure **no client names, private topology, credentials or confidential infrastructure details** are exposed.
-- Verify the screenshot asset URLs load in the live site; they intentionally reference the existing public portfolio repository images.
-- Check mobile layout, all five case-study links, and detailed PDF downloads.
-- Tailor the resume to each job; for international jobs check work-authorization and eligibility conditions.
-
-## Source boundaries
-
-No private `BubbleApp` or `Parky` source code, production configuration, private data, APKs or credentials are included here. The portfolio links to public evidence repositories. HomeyB test images are **not** claimed as production traction. The food delivery case uses illustrative assumptions. Actual job titles should remain accurate in your resume's employment history.
-
-## Maintenance
-
-Plain HTML/CSS, no build tooling. Edit `index.html`, files under `projects/`, and `assets/style.css` directly.
+**Next to add:** one-page resume after verifying employment dates, education and professional history; exact Play Console testing statuses once confirmed.
