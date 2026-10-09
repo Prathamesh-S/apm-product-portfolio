@@ -1,5 +1,5 @@
 %PDF-1.4
-% ASCII-safe PDF layout mapped from audited resume
+% Canonical APM Resume - consistent application and portfolio versions
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
@@ -19,73 +19,73 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
 endobj
 7 0 obj
-<< /Length 7451 >>
+<< /Length 7602 >>
 stream
-0.80 0.82745 0.85882 RG 0.35 w 51.9 713.29 m 543.45 713.29 l S
-0.80 0.82745 0.85882 RG 0.35 w 51.9 635.79 m 543.45 635.79 l S
-0.80 0.82745 0.85882 RG 0.35 w 51.9 494.69 m 543.45 494.69 l S
-0.80 0.82745 0.85882 RG 0.35 w 51.9 273.69 m 543.45 273.69 l S
-0.80 0.82745 0.85882 RG 0.35 w 51.9 169.59 m 543.45 169.59 l S
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.12 0.153 0.192 rg 58.2 58.60 2.7 2.7 re f
-0.086 0.118 0.153 rg BT /F2 18 Tf 1 0 0 1 201.2 778.89 Tm (PRATHAMESH SABLE) Tj ET
-0.086 0.118 0.153 rg BT /F2 9 Tf 1 0 0 1 108.2 765.19 Tm (ASSOCIATE PRODUCT MANAGER  |  PRODUCT ANALYTICS  |  TECHNICAL EXECUTION) Tj ET
-0.125 0.153 0.192 rg BT /F1 9 Tf 1 0 0 1 128.1 751.19 Tm (Pune, Maharashtra, India  |  +91 93076 99044  |  prathameshsspatil2000@gmail.com) Tj ET
-0.125 0.153 0.192 rg BT /F1 9 Tf 1 0 0 1 109.8 739.09 Tm (linkedin.com/in/prathamesh-sable-04aa8421a) Tj ET
-0.125 0.153 0.192 rg BT /F1 8.5 Tf 1 0 0 1 292 739.09 Tm (  |  ) Tj ET
-0.125 0.153 0.192 rg BT /F1 9 Tf 1 0 0 1 303.6 739.09 Tm (prathamesh-s.github.io/apm-product-portfolio/) Tj ET
-0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 52 718.69 Tm (PROFESSIONAL SUMMARY) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 698.89 Tm (APM candidate with 15 months of enterprise technology experience and two self-initiated Android products in ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 686.59 Tm (Google Play closed testing. Independently reduced infrastructure report preparation from an estimated 30-60 ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 674.29 Tm (minutes to ~5 minutes per run \(83-92%\). Skilled in MVP prioritization, product requirements, user journeys, ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 661.99 Tm (SQL/Power BI reporting, UX trade-offs and release testing.) Tj ET
-0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 52 641.19 Tm (PROFESSIONAL EXPERIENCE) Tj ET
-0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 52 619.89 Tm (Assistant System Engineer | Tata Consultancy Services \(TCS\)) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 346 619.89 Tm (  |  May 2024 - Aug 2025) Tj ET
-0.29 0.34 0.40 rg BT /F3 9.5 Tf 1 0 0 1 52 605.69 Tm (Enterprise technology operations | Mumbai | Banking client environment) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 592.39 Tm (Identified repetitive server/database reporting for a ~10-person team; independently built an on-demand ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 580.39 Tm (Linux shell-script workflow generating stakeholder-readable HTML reports and reducing preparation time by ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 568.39 Tm (an estimated 83-92% per run.) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 556.49 Tm (Developed SQL extraction workflows and Excel/Power BI reports for CPU and storage utilization, supporting ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 544.49 Tm (recurring infrastructure reporting and technical stakeholder decisions.) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 532.49 Tm (Investigated production incidents using system logs and evidence, documented findings, and coordinated ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 520.49 Tm (operational changes in an SLA-driven environment.) Tj ET
-0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 52 500.09 Tm (INDEPENDENT PRODUCT PROJECTS) Tj ET
-0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 52 478.79 Tm (HomeyB | Product Definition & Android Development) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 304.2 478.79 Tm (  |  Sep 2025 - Present) Tj ET
-0.29 0.34 0.40 rg BT /F3 9.5 Tf 1 0 0 1 52 464.59 Tm (Self-initiated product with co-founder collaboration | Google Play closed testing) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 451.29 Tm (Led MVP scope, PRD, user journeys, acceptance criteria and screen-level interaction decisions; developed ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 439.29 Tm (nearby discovery, Interest Hives, local posts and consent-based connections with React Native, TypeScript, ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 427.29 Tm (Firebase and H3 geolocation.) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 415.39 Tm (Prioritized approximate location, foreground-only presence and blocking/reporting for privacy and safety; ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 403.39 Tm (investigated misleading location-verification failures through flow tracing and error analysis.) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 391.39 Tm (Collaborated on feature feedback, two-device UAT and release readiness; designed activation, publishing-) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 379.39 Tm (reliability and useful-interaction metrics for beta evaluation \(results not yet established\).) Tj ET
-0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 52 362.99 Tm (Parky | Independent Android Product Builder) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 265.9 362.99 Tm (  |  Mar 2026 - Present) Tj ET
-0.29 0.34 0.40 rg BT /F3 9.5 Tf 1 0 0 1 52 348.79 Tm (Self-initiated product | Google Play closed testing) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 335.39 Tm (Scoped, built and device-tested an offline-first parking assistant with GPS accuracy guidance, parking ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 323.39 Tm (notes/photos, compass direction, local history and Android shortcuts using React Native and TypeScript.) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 311.49 Tm (Selected explicit save over background detection, local-only storage over cloud accounts and offline ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 299.49 Tm (guidance over embedded maps to reduce friction, privacy exposure and operating costs.) Tj ET
-0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 52 279.09 Tm (SKILLS) Tj ET
-0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 52 259.29 Tm (Product management & UX: ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 186.9 259.29 Tm (Problem framing, MVP scoping, PRDs, user stories, acceptance criteria, ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 246.99 Tm (prioritization, user journeys, interaction design, wireframing, prototyping) Tj ET
-0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 52 233.69 Tm (Analytics & experimentation: ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 192.5 233.69 Tm (SQL, Excel, Power BI, DAX, Power Query, KPI/funnel definition, Firebase ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 221.39 Tm (Analytics, A/B test design \(case study\), root-cause analysis, unit economics) Tj ET
-0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 52 208.09 Tm (Delivery & technical: ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 153.1 208.09 Tm (Usability testing, UAT, stakeholder reporting, Jira \(familiar\), Agile/Scrum, Python ) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 195.79 Tm (\(intermediate\), Linux/shell, React Native, TypeScript, Firebase, Git/GitHub) Tj ET
-0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 52 174.99 Tm (EDUCATION) Tj ET
-0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 52 155.19 Tm (B.E., Information Technology | Bharati Vidyapeeth College of Engineering, Navi Mumbai | 2019 - 2023) Tj ET
+0.8 0.82745 0.85882 RG 0.35 w 51.9 713.289 m 543.45 713.289 l S
+0.8 0.82745 0.85882 RG 0.35 w 51.9 635.789 m 543.45 635.789 l S
+0.8 0.82745 0.85882 RG 0.35 w 51.9 494.689 m 543.45 494.689 l S
+0.8 0.82745 0.85882 RG 0.35 w 51.9 273.689 m 543.45 273.689 l S
+0.8 0.82745 0.85882 RG 0.35 w 51.9 169.589 m 543.45 169.589 l S
+0.12 0.153 0.192 rg 56.3 593.090 2.2 2.2 re f
+0.12 0.153 0.192 rg 56.3 557.190 2.2 2.2 re f
+0.12 0.153 0.192 rg 56.3 533.190 2.2 2.2 re f
+0.12 0.153 0.192 rg 56.3 451.990 2.2 2.2 re f
+0.12 0.153 0.192 rg 56.3 416.090 2.2 2.2 re f
+0.12 0.153 0.192 rg 56.3 392.090 2.2 2.2 re f
+0.12 0.153 0.192 rg 56.3 336.090 2.2 2.2 re f
+0.12 0.153 0.192 rg 56.3 312.190 2.2 2.2 re f
+0.086 0.118 0.153 rg BT /F2 18 Tf 1 0 0 1 201.25 778.890 Tm (PRATHAMESH SABLE) Tj ET
+0.086 0.118 0.153 rg BT /F2 9 Tf 1 0 0 1 108.25 765.240 Tm (ASSOCIATE PRODUCT MANAGER  |  PRODUCT ANALYTICS  |  TECHNICAL EXECUTION) Tj ET
+0.125 0.153 0.192 rg BT /F1 9 Tf 1 0 0 1 128.15 751.190 Tm (Pune, Maharashtra, India  |  +91 93076 99044  |  prathameshsspatil2000@gmail.com) Tj ET
+0.125 0.153 0.192 rg BT /F1 9 Tf 1 0 0 1 109.85 739.140 Tm (linkedin.com/in/prathamesh-sable-04aa8421a) Tj ET
+0.125 0.153 0.192 rg BT /F1 8.5 Tf 1 0 0 1 291.95 739.140 Tm (  |  ) Tj ET
+0.125 0.153 0.192 rg BT /F1 9 Tf 1 0 0 1 303.6 739.140 Tm (prathamesh-s.github.io/apm-product-portfolio/) Tj ET
+0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 51.95 718.690 Tm (PROFESSIONAL SUMMARY) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 698.890 Tm (APM candidate with 15 months of enterprise technology experience and two self-initiated Android products in ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 686.590 Tm (Google Play closed testing. Independently reduced infrastructure report preparation from an estimated 30-60 ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 674.290 Tm (minutes to ~5 minutes per run \(83-92%\). Skilled in MVP prioritization, product requirements, user journeys, ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 661.990 Tm (SQL/Power BI reporting, UX trade-offs and release testing.) Tj ET
+0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 51.95 641.240 Tm (PROFESSIONAL EXPERIENCE) Tj ET
+0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 51.95 619.940 Tm (Assistant System Engineer | Tata Consultancy Services \(TCS\)) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 345.95 619.940 Tm (  |  May 2024 - Aug 2025) Tj ET
+0.29 0.34 0.40 rg BT /F3 9.5 Tf 1 0 0 1 51.95 605.740 Tm (Enterprise technology operations | Mumbai | Banking client environment) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 592.390 Tm (Identified repetitive server/database reporting for a ~10-person team; independently built an on-demand ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 580.390 Tm (Linux shell-script workflow generating stakeholder-readable HTML reports and reducing preparation time by ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 568.440 Tm (an estimated 83-92% per run.) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 556.490 Tm (Developed SQL extraction workflows and Excel/Power BI reports for CPU and storage utilization, supporting ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 544.490 Tm (recurring infrastructure reporting and technical stakeholder decisions.) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 532.540 Tm (Investigated production incidents using system logs and evidence, documented findings, and coordinated ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 520.540 Tm (operational changes in an SLA-driven environment.) Tj ET
+0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 51.95 500.140 Tm (INDEPENDENT PRODUCT PROJECTS) Tj ET
+0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 51.95 478.840 Tm (HomeyB | Product Definition & Android Development) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 304.2 478.840 Tm (  |  Sep 2025 - Present) Tj ET
+0.29 0.34 0.40 rg BT /F3 9.5 Tf 1 0 0 1 51.95 464.640 Tm (Self-initiated product with co-founder collaboration | Google Play closed testing) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 451.290 Tm (Led MVP scope, PRD, user journeys, acceptance criteria and screen-level interaction decisions; developed ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 439.290 Tm (nearby discovery, Interest Hives, local posts and consent-based connections with React Native, TypeScript, ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 427.340 Tm (Firebase and H3 geolocation.) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 415.390 Tm (Prioritized approximate location, foreground-only presence and blocking/reporting for privacy and safety; ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 403.390 Tm (investigated misleading location-verification failures through flow tracing and error analysis.) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 391.440 Tm (Collaborated on feature feedback, two-device UAT and release readiness; designed activation, publishing-) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 379.440 Tm (reliability and useful-interaction metrics for beta evaluation \(results not yet established\).) Tj ET
+0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 51.95 362.990 Tm (Parky | Independent Android Product Builder) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 265.85 362.990 Tm (  |  Mar 2026 - Present) Tj ET
+0.29 0.34 0.40 rg BT /F3 9.5 Tf 1 0 0 1 51.95 348.790 Tm (Self-initiated product | Google Play closed testing) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 335.440 Tm (Scoped, built and device-tested an offline-first parking assistant with GPS accuracy guidance, parking ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 323.440 Tm (notes/photos, compass direction, local history and Android shortcuts using React Native and TypeScript.) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 311.490 Tm (Selected explicit save over background detection, local-only storage over cloud accounts and offline ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 64.9 299.490 Tm (guidance over embedded maps to reduce friction, privacy exposure and operating costs.) Tj ET
+0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 51.95 279.090 Tm (SKILLS) Tj ET
+0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 51.95 259.290 Tm (Product management & UX: ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 186.95 259.290 Tm (Problem framing, MVP scoping, PRDs, user stories, acceptance criteria, ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 246.990 Tm (prioritization, user journeys, interaction design, wireframing, prototyping) Tj ET
+0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 51.95 233.690 Tm (Analytics & experimentation: ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 192.5 233.690 Tm (SQL, Excel, Power BI, DAX, Power Query, KPI/funnel definition, Firebase ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 221.390 Tm (Analytics, A/B test design \(case study\), root-cause analysis, unit economics) Tj ET
+0.086 0.118 0.153 rg BT /F2 10 Tf 1 0 0 1 51.95 208.090 Tm (Delivery & technical: ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 153.1 208.090 Tm (Usability testing, UAT, stakeholder reporting, Jira \(familiar\), Agile/Scrum, Python ) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 195.790 Tm (\(intermediate\), Linux/shell, React Native, TypeScript, Firebase, Git/GitHub) Tj ET
+0.086 0.118 0.153 rg BT /F2 10.5 Tf 1 0 0 1 51.95 175.040 Tm (EDUCATION) Tj ET
+0.125 0.153 0.192 rg BT /F1 10 Tf 1 0 0 1 51.95 155.240 Tm (B.E., Information Technology | Bharati Vidyapeeth College of Engineering, Navi Mumbai | 2019 - 2023) Tj ET
 endstream
 endobj
 8 0 obj
@@ -95,23 +95,23 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [303.49 737.24 485.61 747.59] /Border [0 0 0] /A << /S /URI /URI (https://prathamesh-s.github.io/apm-product-portfolio/) >> >>
 endobj
 10 0 obj
-<< /Title (Prathamesh Sable - Associate Product Manager Resume) /Subject (ATS-friendly APM resume with product analytics and independent product projects) /Author (Prathamesh Sable) >>
+<< /Title (Prathamesh Sable - Associate Product Manager Resume) /Author (Prathamesh Sable) >>
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000060 00000 n 
-0000000109 00000 n 
-0000000166 00000 n 
-0000000341 00000 n 
-0000000411 00000 n 
-0000000486 00000 n 
-0000000564 00000 n 
-0000008066 00000 n 
-0000008246 00000 n 
-0000008425 00000 n 
+0000000080 00000 n 
+0000000129 00000 n 
+0000000186 00000 n 
+0000000361 00000 n 
+0000000431 00000 n 
+0000000506 00000 n 
+0000000584 00000 n 
+0000008237 00000 n 
+0000008417 00000 n 
+0000008596 00000 n 
 trailer
 << /Size 11 /Root 1 0 R /Info 10 0 R >>
 startxref
-8626
+8706
 %%EOF
